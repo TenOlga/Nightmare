@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 3d line
 4th line
+=======
+1st line
+2nd line
+>>>>>>> 321ab1d (Two lines in Help branch)
